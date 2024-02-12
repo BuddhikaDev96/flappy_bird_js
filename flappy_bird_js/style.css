@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Bangers', system-ui;
+    }
+    #canvas1{
+        background: blue;
+        background-size: cover;
+        position: absolute;
+        top: 0%;
+        left: 0%;
+        max-width: 100%;
+        max-height: 100%;
+    }
